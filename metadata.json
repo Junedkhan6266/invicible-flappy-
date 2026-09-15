@@ -1,0 +1,6 @@
+{
+  "name": "Invincible Flappy Bird",
+  "description": "A fun, impossible-to-lose Flappy Bird game where pipes part, bounce, or smash away so you always win.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
